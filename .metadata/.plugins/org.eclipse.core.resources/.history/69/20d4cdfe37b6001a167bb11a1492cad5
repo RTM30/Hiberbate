@@ -1,0 +1,12 @@
+package Model;
+
+public class Bird {
+	
+	int id;
+	
+	private String species;
+	private boolean canFly;
+	private boolean laysEggs;
+	
+
+}
